@@ -13,11 +13,11 @@ I’m a Software Engineer with experience in backend systems, scalable APIs, and
 ---
 
 ## Experience Highlights
-- **Deployed LLMs in production** (vLLM on Vertex AI) → reduced inference latency by 98%  
-- **Integrated AI assistants** into HIPAA-compliant systems used by healthcare providers  
-- **Optimized transcription pipelines** (Whisper → NeMo Parakeet) → boosted accuracy by 35% and cut latency by 78%  
-- **Built real-time APIs** (WebSocket + REST fallback) for scalable backend workflows  
-- **Developed applied ML features** including patient sentiment metrics and video AI modules for remote monitoring  
+- **Deployed LLMs in production**  
+- **Integrated AI assistants**   
+- **Optimized transcription pipelines**  
+- **Built real-time APIs** 
+- **Developed applied ML features** 
 
 ---
 
