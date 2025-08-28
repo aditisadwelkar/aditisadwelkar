@@ -1,6 +1,6 @@
 # Hi, I’m Aditi 👋
 
-I’m a Software Engineer with experience in backend systems, scalable APIs, and applied AI/ML integration. I’ve spent the past four summers at [Mirro.ai](https://mirro.ai), building production-ready systems that support mental healthcare providers, from deploying LLMs to developing real-time APIs.
+I’m a Software Engineer with experience in backend systems, scalable APIs, and applied AI/ML integration. I’ve spent the past four summers at [mirro.ai](https://mirro.ai), building production-ready systems that support mental healthcare providers, from deploying LLMs to developing real-time APIs.
 
 ---
 
